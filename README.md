@@ -2,6 +2,10 @@
 
 This project is to build a RESTful API using a Node.js framework that will interfaces with the private blockchain. I chose to use the Express JS framework in this project.
 
+## Project Rubric 
+
+I implemented the project according to the Project Rubric [https://review.udacity.com/#!/rubrics/1707/view].
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
